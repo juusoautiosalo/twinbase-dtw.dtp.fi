@@ -19,6 +19,13 @@ manufacturer:
 relations:
 - dt-id: http://d-t.fi/3091b292-6104-4ef3-a30f-8275b46b5ab4
   relationType: parent
+working_range:
+  bridge_min: -6
+  bridge_max: 9
+  trolley_min: -4.5
+  trolley_max: 4.5
+  hoist_max: 4.5 
+  hosit_min: 0.5
 features:
 - name: OSEMA
   description: OSEMA allows managing retrofitted sensors attached to the crane.
